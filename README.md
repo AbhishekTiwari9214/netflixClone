@@ -69,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # netflixClone
+
+
+
+
+
+
+
+if you want to see the app you can see it live on the link below:
+https://netflixclone-4531e.web.app
+and
+https://netflixclone-4531e.firebaseapp.com/
+
+
+
+
