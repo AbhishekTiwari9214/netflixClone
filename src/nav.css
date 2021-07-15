@@ -1,0 +1,32 @@
+.nav {
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    height: 30px;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+    z-index: 1;
+}
+
+.nav_black {
+    background-color: black;
+}
+
+.netflixlogo {
+    position: fixed;
+    width: 80px;
+    object-fit: contain;
+    left: 20px;
+    /* padding: 20px; */
+}
+
+.navavtarlogo {
+    /* left: 0; */
+    width: 30px;
+    right: 20px;
+    object-fit: contain;
+    position: fixed;
+}
